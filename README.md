@@ -74,7 +74,20 @@ The analytical tools used were:
   group by Product
   order by Totalsales desc
   ```
-
+  - Sales Transactions by Region
+  ```SQL
+  Select Region, COUNT (OrderID) as Transaction_COUNT
+  from [dbo].[Sales Data_Project]
+  group by Region
+  order by Transaction_COUNT desc
+  ```
+  - Highest Selling Product
+  ```SQL
+  Select top 1 Product, SUM(Sales) as Totalsales
+  from [dbo].[Sales Data_Project]
+  group by product
+  ```
+  
   ### Data Visualization
  ![SALES PIVOT TABLE](https://github.com/user-attachments/assets/030a76c6-2f3c-44e8-91e4-b3213257dd90)
 
