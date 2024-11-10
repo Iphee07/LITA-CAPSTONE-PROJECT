@@ -30,10 +30,17 @@ This project aims to analyse the sales data of a retail store to gain insights i
 The dataset contains the following columns:
 
 -OrderID: A unique identifier for each order
+
 -CustomerID: A unique identifier for each customer
+
 -Product: The specific product purchased in each order
+
 -Region: The geographical location of where the order was placed
+
 -Order Date: The date the order was placed
+
 -Quantity: The number of units purchased for each product in an order
+
 -Unit Price: The price per unit of a product
+
 -Sales: The sales value for an order, calculated as Quantity * Unit Price
