@@ -59,3 +59,26 @@ The analytical tools used were:
   =AVERAGEIF(C:C,"Jacket",H:H)
   =AVERAGEIF(C:C,"Socks",H:H)
   ```
+   - Total Revenue by Region
+  ```Excel
+  =SUMIF(D:D,"South",H:H)
+  =SUMIF(D:D,"East",H:H)
+  =SUMIF(D:D,"North",H:H)
+  =SUMIF(D:D,"West",H:H)
+  ```
+- SQL Queries
+  - Total Sales per Products
+  ```SQL
+  Select Product, SUM(Sales)as Totalsales
+  from [dbo].[Sales Data_Project]
+  group by Product
+  order by Totalsales desc
+  ```
+
+  ### Data Visualization
+ ![SALES PIVOT TABLE](https://github.com/user-attachments/assets/030a76c6-2f3c-44e8-91e4-b3213257dd90)
+
+
+ ![SALES POWER BI](https://github.com/user-attachments/assets/fca76fd6-a29e-457c-83b3-0e37d8c64fac)
+
+
