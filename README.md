@@ -47,7 +47,19 @@ The analytical tools used were:
 - Power BI- this business intelligence tool was used for data visualization
 
   ### Data Cleaning
+In this phase of my analysis, i performed the following actions:
+- Data loading: Loaded the data
+- Blank Value Check: Verified the dataset for blank values
+- Data Type Conversion: Converted specified columns to text format for consistency
+- Data Standardization: Reformatted date columns to YYYY-MM-DD for uniformity
+- Duplicate Removal: Removed duplicate rows to ensure unique records. 40,079 duplicates were found and removed left with 9,921 unique values out of 50,000 records given.
 
+  ### Exploratory Data Analysis
+  In this phase of my analysis, the dataset was explored to answer questions such as:
+  - Which product had the most sales?
+  - What is the regional sales trend?
+  - What is the monthly sales performance?
+    
 ### Data Analysis
 - Excel Analysis
    - Average Sales per Products
