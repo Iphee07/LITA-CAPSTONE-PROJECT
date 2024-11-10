@@ -1,8 +1,16 @@
 # LITA-CAPSTONE-PROJECT
 
-###* Project Title : Sales Performance Analysis for a Retail Store
+## Project Title: Sales Performance Analysis for a Retail Store
 
-###* Project Overview
+### Table of Contents
+[Project Overview](#project-overview)
+
+[Dataset](#dataset)
+
+[Data Sources](data-sources)
+
+[Analytical Tools Used](analytical-tools-used)
+
 This project exposes the trends in customers' preference towards products. Through this analysis, having used different parameters in the data received a relatable story is told.
 
 ###* Data Source
