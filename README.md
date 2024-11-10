@@ -47,7 +47,7 @@ The analytical tools used were:
 - Power BI- this business intelligence tool was used for data visualization
 
   ### Data Cleaning
-In this phase of my analysis, i performed the following actions:
+In this phase of my analysis, the following actions were taken:
 - Data loading: Loaded the data
 - Blank Value Check: Verified the dataset for blank values
 - Data Type Conversion: Converted specified columns to text format for consistency
