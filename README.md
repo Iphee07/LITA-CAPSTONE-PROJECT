@@ -1,6 +1,6 @@
 # LITA-CAPSTONE-PROJECT
 
-## Project Title: Sales Performance Analysis for a Retail Store
+## Project Title: Sales Performance Analysis for a Retail Store(Everything Wears Boutique)
 
 ### Table of Contents
 [Project Overview](#project-overview)
