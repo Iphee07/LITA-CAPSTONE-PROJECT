@@ -106,4 +106,21 @@ In this phase of my analysis, i performed the following actions:
 
  ![SALES POWER BI](https://github.com/user-attachments/assets/fca76fd6-a29e-457c-83b3-0e37d8c64fac)
 
+### Insights
+The total revenue of Everything Wears Boutique from January, 2023 to August, 2024 is $2 million which cuts across the four regions( North, South, East and West), generated from the sales of the six products ( shoes, shirts, hat, gloves, jacket and socks).
 
+The best performing product is the shoes accounting for over 29.2% of revenue generated followed by shirt, 23.1%. Hats and gloves being the mid performing products produced 15.1% and 14.1% respectively. The least performing products are the jackets and socks which generated only 9.9% and 8.6% respectively.
+
+Geographically, the South Region has emerged as the highest selling region with 44.2% of total revenue while East and North regions have recorded lower sales producing 23.1% and 18.4% of total revenue respectively. West region being the least performing region recorded a production of 14.3% of total revenue generated. This disparity suggests opportunities for market expansion and targeted marketing strategies.
+
+These findings highlight areas of strength and potential growth, providing valuable insights for future business strategies and resource allocation.
+
+### Recommendation
+- Sales Strategy
+  - The South region was able to produce 44.2% of total revenue with the sales of only three products (shoes, gloves, socks) during the time under review. Thus, more products (shirt, hat, jacket) should be allocated to this region for sales growth.
+  - More focus should be looked into the products that drives sales growth. In this review, i found out that the top 3 products that were sold in quantity are the shoes, hat and shirt. I'll recommend a customer market research should be done to analyse customer feedback. This will enable Capstone Retail Store to serve their customers better.
+- Product Optimization
+  - Shoes has the highest sales revenue. Therefore, there should be increased production and marketing efforts for shoes
+  - Products like shirt, hats, gloves, jackets and socks have high growth potential. Thus, product offerings should be expanded and there should be marketing campaigns for these products.
+- Regional Focus
+  - The West Region has the lowest sales. Therefore, we should conduct market research to identify opportunities for growth.
