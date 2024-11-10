@@ -11,13 +11,29 @@
 
 [Analytical Tools Used](analytical-tools-used)
 
-This project exposes the trends in customers' preference towards products. Through this analysis, having used different parameters in the data received a relatable story is told.
+[Data Cleaning](data-cleaning)
 
-###* Data Source
-The data source used in this project is an open source data which can be downloaded online. Data showing sales trend in a clothes store and data showing customer segmentation.
+[Exploratory Data Analysis](exploratory-data-analysis)
 
-###* Analytical tools used were:
+[Data Analysis](data-analysis)
 
--MsExcel- this tool is used for data cleaning(TRIM fubction), analysis and visualization. In this stage, raw data is refined to make it clean and suitable for other visualization.
--SQL(Structured Query Language)= here, the already cleaned data is queried using codes. This tool shows summary of the sales trend. 
--Power BI-this is a business analytical tool. This tool summarizes this report in a visualized format. Mathemeatical tools in this app was used and DAX function(Data Expression  function}.
+[Data Visualization](data-visualization)
+
+[Insights](insights)
+
+[Recommendation](recommendation)
+
+### Project Overview
+This project aims to analyse the sales data of a retail store to gain insights into customer purchasing behaviour, product performance, regional and monthly sales trends in order to make business decisions.
+
+### Dataset
+The dataset contains the following columns:
+
+-OrderID: A unique identifier for each order
+-CustomerID: A unique identifier for each customer
+-Product: The specific product purchased in each order
+-Region: The geographical location of where the order was placed
+-Order Date: The date the order was placed
+-Quantity: The number of units purchased for each product in an order
+-Unit Price: The price per unit of a product
+-Sales: The sales value for an order, calculated as Quantity * Unit Price
